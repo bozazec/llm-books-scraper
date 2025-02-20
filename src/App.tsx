@@ -64,7 +64,7 @@ function App() {
           disabled={isLoading}
           className="scrape-button"
         >
-          {isLoading ? "Scraping..." : "RUN"}
+          {isLoading ? "Scraping..." : "PUMPAJ"}
         </button>
       </div>
 
